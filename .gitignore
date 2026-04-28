@@ -1,0 +1,15 @@
+# virtual environment
+nlp-env/
+venv/
+.env/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
