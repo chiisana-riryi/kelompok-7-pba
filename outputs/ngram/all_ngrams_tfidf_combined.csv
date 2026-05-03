@@ -1,0 +1,901 @@
+N-gram,TF-IDF Score,Type
+tarif,0.04742701495837244,Unigram
+trump,0.039738536183653805,Unigram
+negara,0.036332804326186914,Unigram
+indonesia,0.03475427658105426,Unigram
+perdagangan,0.03012077110621191,Unigram
+china,0.02992683017116548,Unigram
+kebijakan,0.02957049027927328,Unigram
+impor,0.028898808075329484,Unigram
+amerika,0.028107864748899234,Unigram
+barang,0.02771263592844107,Unigram
+persen,0.027390877989082893,Unigram
+tersebut,0.027082329298637662,Unigram
+produk,0.025582583520732977,Unigram
+ekonomi,0.025496189058864065,Unigram
+presiden,0.025322493450332238,Unigram
+menjadi,0.02504374619437864,Unigram
+pasar,0.024373836930663993,Unigram
+serikat,0.02426133180198051,Unigram
+dagang,0.023262760868899442,Unigram
+baru,0.022035253245539056,Unigram
+sebesar,0.021640200874058848,Unigram
+global,0.02153426118737446,Unigram
+ekspor,0.021447787589771415,Unigram
+pemerintah,0.021131535126772655,Unigram
+besar,0.020955127534900857,Unigram
+donald,0.020572154473794048,Unigram
+hari,0.020520129946722348,Unigram
+mengatakan,0.020507631509656992,Unigram
+tahun,0.020380634906937232,Unigram
+harga,0.020228543922609785,Unigram
+perusahaan,0.019117038354495904,Unigram
+tinggi,0.019035786156790264,Unigram
+hingga,0.018886983262394706,Unigram
+negeri,0.018020244630278237,Unigram
+langkah,0.017980198703451317,Unigram
+dunia,0.017836860104997288,Unigram
+perang,0.01776550468433422,Unigram
+termasuk,0.017733630654864226,Unigram
+april,0.017729823349590244,Unigram
+beberapa,0.01725753509027665,Unigram
+masuk,0.017239096745826164,Unigram
+selama,0.01721239947584428,Unigram
+negosiasi,0.017112661275952193,Unigram
+industri,0.01702696611810913,Unigram
+atas,0.01668509619098146,Unigram
+dampak,0.016619886521881948,Unigram
+banyak,0.016436624956636944,Unigram
+satu,0.016289662113488694,Unigram
+sebelumnya,0.016264534538407295,Unigram
+kanada,0.0161763540424351,Unigram
+jakarta,0.016126751874676815,Unigram
+mulai,0.016088464713026714,Unigram
+menteri,0.01603860430414285,Unigram
+miliar,0.015973746398050947,Unigram
+eropa,0.015761917232765647,Unigram
+lalu,0.01529769471660302,Unigram
+melakukan,0.015036534502964966,Unigram
+sama,0.014946265441930695,Unigram
+waktu,0.0148473414415213,Unigram
+semua,0.014758955962498536,Unigram
+dikenakan,0.014756516367188754,Unigram
+meksiko,0.014742109990058198,Unigram
+membuat,0.014676432890507244,Unigram
+resiprokal,0.01446669587329288,Unigram
+kenaikan,0.014441726495820999,Unigram
+kedua,0.01440560174826356,Unigram
+sangat,0.0143045389410751,Unigram
+tengah,0.014103166490933182,Unigram
+sektor,0.013934476094972613,Unigram
+mitra,0.013874697110961029,Unigram
+berlaku,0.013826345313976673,Unigram
+bea,0.01382381536866079,Unigram
+tetap,0.013780816198883016,Unigram
+merupakan,0.013622104861769476,Unigram
+pertumbuhan,0.013588376244309114,Unigram
+utama,0.013509677480882365,Unigram
+meningkatkan,0.01349271690468439,Unigram
+mengenakan,0.013477017167904828,Unigram
+sejumlah,0.013465586665626306,Unigram
+mencapai,0.013447285584021128,Unigram
+salah,0.013431962303177713,Unigram
+kerja,0.013372575851632488,Unigram
+mengumumkan,0.01331767406947767,Unigram
+saham,0.013264566141710848,Unigram
+sejak,0.01310646540639391,Unigram
+keuangan,0.01307492821409592,Unigram
+balik,0.012932086672315901,Unigram
+terus,0.012895229565510872,Unigram
+terjadi,0.01289233558829908,Unigram
+terkait,0.012827283451583198,Unigram
+perekonomian,0.012789148110858949,Unigram
+kesepakatan,0.012727047251801758,Unigram
+berbagai,0.012604073830911581,Unigram
+penurunan,0.01257567242074137,Unigram
+luar,0.012507466944483854,Unigram
+tambahan,0.012505287842849383,Unigram
+terbesar,0.012453637459115763,Unigram
+nilai,0.01244964547768051,Unigram
+turun,0.012417448419606328,Unigram
+memiliki,0.012337575653532287,Unigram
+investasi,0.01232907453580282,Unigram
+nasional,0.012298898135227884,Unigram
+bulan,0.012297963217874823,Unigram
+pertama,0.012271305214469858,Unigram
+memberikan,0.012254797713284847,Unigram
+putih,0.01223025957028525,Unigram
+uni,0.012144257621355386,Unigram
+awal,0.012107624801429922,Unigram
+produksi,0.011948697941336892,Unigram
+gedung,0.011939903680133484,Unigram
+rabu,0.0118903807850691,Unigram
+airlangga,0.011843661561666656,Unigram
+kamis,0.011839494656220181,Unigram
+timbal,0.011822225459267529,Unigram
+langsung,0.011820733895422217,Unigram
+internasional,0.01180906161310257,Unigram
+bank,0.011799424427276687,Unigram
+diberlakukan,0.011749986252753381,Unigram
+biaya,0.011645576954586876,Unigram
+mengalami,0.011618042258440446,Unigram
+jadi,0.011617899920060007,Unigram
+ketidakpastian,0.011611352768979382,Unigram
+lainnya,0.011601829512056419,Unigram
+dolar,0.011571135776581757,Unigram
+per,0.011521302440870372,Unigram
+tak,0.0114792768363336,Unigram
+baik,0.011424559473924597,Unigram
+pemerintahan,0.011396284238265636,Unigram
+balasan,0.011388753915939149,Unigram
+menghadapi,0.011266159726955549,Unigram
+hubungan,0.011246244178652463,Unigram
+naik,0.011237179163196028,Unigram
+memberlakukan,0.01101970296871289,Unigram
+melalui,0.01096148459128938,Unigram
+menerapkan,0.010947574872102607,Unigram
+bahkan,0.010945068574798997,Unigram
+pernyataan,0.010862998343979254,Unigram
+daya,0.0108518456479197,Unigram
+washington,0.010837208044975738,Unigram
+selasa,0.010802514419380588,Unigram
+menaikkan,0.010797308337530964,Unigram
+menyebut,0.010788900132792517,Unigram
+sebagian,0.010768232703314052,Unigram
+data,0.01072860273126473,Unigram
+domestik,0.010700202160838713,Unigram
+menyatakan,0.010680029702853049,Unigram
+defisit,0.010645879206385005,Unigram
+minggu,0.010560930739660725,Unigram
+depan,0.010550302433335617,Unigram
+pajak,0.010532158970149193,Unigram
+asia,0.010454000876773574,Unigram
+sebuah,0.010410628957125172,Unigram
+kementerian,0.010407050182347156,Unigram
+apa,0.010381286133011418,Unigram
+mungkin,0.010306104122427811,Unigram
+mobil,0.010282511961280884,Unigram
+dilakukan,0.010252060474015756,Unigram
+tiongkok,0.010196629389200424,Unigram
+jumat,0.010196280022560218,Unigram
+inflasi,0.010174471458706669,Unigram
+dikutip,0.010170443283996522,Unigram
+konsumen,0.010162022269900383,Unigram
+mendorong,0.010157710924714552,Unigram
+menunjukkan,0.010129254525528776,Unigram
+berdampak,0.010116989457170093,Unigram
+kemudian,0.010046773967489538,Unigram
+kemungkinan,0.009980973708010122,Unigram
+produsen,0.009953739669303267,Unigram
+asal,0.009917681346077723,Unigram
+tindakan,0.00991651519244922,Unigram
+senin,0.009889159545247593,Unigram
+mengambil,0.009863484220009404,Unigram
+bisnis,0.009797225952414727,Unigram
+pihak,0.00975673751404407,Unigram
+bukan,0.009751727845851729,Unigram
+semakin,0.009741436385307056,Unigram
+kini,0.009701027688320905,Unigram
+terakhir,0.009678033104896037,Unigram
+orang,0.009663407100520913,Unigram
+meski,0.00965696167517818,Unigram
+mengurangi,0.009634348297805668,Unigram
+tekanan,0.009609118151756923,Unigram
+ancaman,0.009577193589655811,Unigram
+pertemuan,0.009561253308125642,Unigram
+akibat,0.009546800675659417,Unigram
+seluruh,0.00951064442496973,Unigram
+diperkirakan,0.009498544790386016,Unigram
+juta,0.009486907975529184,Unigram
+rupiah,0.009446951020623026,Unigram
+signifikan,0.009446359488778198,Unigram
+berpotensi,0.009424146953482088,Unigram
+meningkat,0.00941904772338088,Unigram
+sedang,0.0093581083083656,Unigram
+beijing,0.009333121124884753,Unigram
+pekan,0.009331317852229919,Unigram
+menegaskan,0.009317116467675898,Unigram
+penerapan,0.009315972857860417,Unigram
+masa,0.00931175087102849,Unigram
+sendiri,0.009248152914992187,Unigram
+investor,0.009229047906409863,Unigram
+katanya,0.009221831151441385,Unigram
+permintaan,0.009180962328186404,Unigram
+bagian,0.009179024960080603,Unigram
+baja,0.009177603545501753,Unigram
+meskipun,0.009172102576283663,Unigram
+penting,0.009161920237499673,Unigram
+suku,0.009133454278843621,Unigram
+manufaktur,0.009095296276959573,Unigram
+minyak,0.009094505212274246,Unigram
+total,0.009063522531443899,Unigram
+terutama,0.009048823757398811,Unigram
+paling,0.009047788723549314,Unigram
+bawah,0.00901213603839879,Unigram
+teknologi,0.009003200146099096,Unigram
+triliun,0.008991613762337413,Unigram
+menurunkan,0.0089871762819659,Unigram
+kondisi,0.00898352973809963,Unigram
+komoditas,0.008968179088037926,Unigram
+perlu,0.00894039398790152,Unigram
+rantai,0.008923810791628625,Unigram
+hampir,0.008904008617260647,Unigram
+vietnam,0.0088911153572523,Unigram
+segera,0.008848147687051226,Unigram
+terbaru,0.008835970440135668,Unigram
+dibandingkan,0.008832862514071501,Unigram
+angka,0.008831393687041087,Unigram
+resmi,0.008826453035651013,Unigram
+memicu,0.00881686937323443,Unigram
+kali,0.00881161318815774,Unigram
+kekhawatiran,0.008785495560865265,Unigram
+bersama,0.008754972776878664,Unigram
+tiga,0.008728214686837432,Unigram
+tingkat,0.008726857996609202,Unigram
+sumber,0.00871537246342078,Unigram
+strategi,0.00871418628617636,Unigram
+diterapkan,0.008707660445287438,Unigram
+rencana,0.008697974186370241,Unigram
+energi,0.0086886065069038,Unigram
+mana,0.008687722522008352,Unigram
+berdasarkan,0.008664623675314323,Unigram
+level,0.008650790747111475,Unigram
+scroll,0.008623656685119609,Unigram
+masing,0.008616454885400568,Unigram
+menilai,0.008601378733990934,Unigram
+ekonom,0.008597988638486789,Unigram
+potensi,0.00857038383725436,Unigram
+upaya,0.00854768414783292,Unigram
+lanjut,0.008527168243051358,Unigram
+uang,0.008485889124650876,Unigram
+akhir,0.00848437635147642,Unigram
+the,0.008476461990574488,Unigram
+keputusan,0.00844924986872028,Unigram
+indeks,0.008428540311644214,Unigram
+pabrik,0.008422647707717735,Unigram
+posisi,0.008420959485144808,Unigram
+laporan,0.008408417356118152,Unigram
+daftar,0.0082749645926616,Unigram
+terkena,0.008228445603483854,Unigram
+menyebabkan,0.008174247360742877,Unigram
+bidang,0.008148450274676835,Unigram
+dasar,0.008133223707116784,Unigram
+februari,0.008085840172186356,Unigram
+pelaku,0.00807015649945545,Unigram
+maret,0.008063972958035875,Unigram
+jepang,0.008035262471975554,Unigram
+berada,0.008029600531133057,Unigram
+ketegangan,0.008011627593617078,Unigram
+hasil,0.007985135991306314,Unigram
+sisi,0.00796529625909019,Unigram
+memperkuat,0.00793044737758944,Unigram
+ujarnya,0.007873409804151006,Unigram
+pengumuman,0.007869132362138763,Unigram
+jangka,0.007859749846857018,Unigram
+strategis,0.007853691881529963,Unigram
+pejabat,0.007831524271788213,Unigram
+cina,0.007795196776260016,Unigram
+perjanjian,0.0077412848689937565,Unigram
+januari,0.007697056836549403,Unigram
+bakal,0.007690464493709753,Unigram
+peningkatan,0.007687971316566711,Unigram
+soal,0.007682267304762497,Unigram
+rendah,0.007671975523004563,Unigram
+kepentingan,0.007669192854529938,Unigram
+peluang,0.007649106885644617,Unigram
+masalah,0.007600276437178475,Unigram
+membalas,0.007585989931227108,Unigram
+otomotif,0.0075682683805321695,Unigram
+aluminium,0.007565117411754723,Unigram
+prabowo,0.00756364557490395,Unigram
+diumumkan,0.00755347068074709,Unigram
+senilai,0.007549861928143737,Unigram
+adil,0.007546654046220758,Unigram
+sistem,0.007539175368154421,Unigram
+selatan,0.007493743862131511,Unigram
+menekan,0.007474462094180328,Unigram
+india,0.007462892378949937,Unigram
+terdampak,0.007435647062315232,Unigram
+usd,0.0074152753909923486,Unigram
+pembicaraan,0.007405910173731568,Unigram
+bunga,0.007405495596740261,Unigram
+amerika serikat,0.027469323448894505,Bigram
+donald trump,0.023289584448210984,Bigram
+kebijakan tarif,0.022117624291739402,Bigram
+tarif impor,0.021222816821741985,Bigram
+negara negara,0.01927733190624051,Bigram
+tarif trump,0.018006551711442588,Bigram
+presiden donald,0.016837837580944846,Bigram
+presiden amerika,0.016290099284433212,Bigram
+perang dagang,0.016281156288395437,Bigram
+barang barang,0.015915561069039928,Bigram
+serikat donald,0.01565592616201398,Bigram
+tarif resiprokal,0.014337206592689075,Bigram
+salah satu,0.013594608065758015,Bigram
+tarif baru,0.012929219285754684,Bigram
+uni eropa,0.012758146424008736,Bigram
+sebesar persen,0.012755280742965893,Bigram
+gedung putih,0.012628746209948463,Bigram
+mengenakan tarif,0.012553136413522651,Bigram
+timbal balik,0.012176074233541622,Bigram
+bea masuk,0.012078846016757943,Bigram
+mitra dagang,0.011699974650762777,Bigram
+luar negeri,0.011350295259870202,Bigram
+tarif tinggi,0.01092777075867113,Bigram
+tarif timbal,0.010584633695626526,Bigram
+memberlakukan tarif,0.00996582942156917,Bigram
+tarif persen,0.009954065068792057,Bigram
+kanada meksiko,0.009944764661296424,Bigram
+kedua negara,0.009921144803348134,Bigram
+tarif tersebut,0.009900425407870075,Bigram
+sebagian besar,0.009779836977706267,Bigram
+kerja sama,0.00976807585540131,Bigram
+kenaikan tarif,0.00959007386951923,Bigram
+pertumbuhan ekonomi,0.009315889150198273,Bigram
+produk produk,0.0090578810670392,Bigram
+pemerintah indonesia,0.009011941815910965,Bigram
+perang tarif,0.008944062939906195,Bigram
+penerapan tarif,0.008935343113857342,Bigram
+suku bunga,0.00889126794045389,Bigram
+tarif sebesar,0.008848267574382307,Bigram
+barang impor,0.008814214736509483,Bigram
+presiden trump,0.008705640039456071,Bigram
+negara tersebut,0.008668497100702463,Bigram
+selama hari,0.008588531837502168,Bigram
+trump mengumumkan,0.00857478803048629,Bigram
+pemerintahan trump,0.008550525078804948,Bigram
+defisit perdagangan,0.008375199430676578,Bigram
+dikenakan tarif,0.008369349965012951,Bigram
+menaikkan tarif,0.008210750015519916,Bigram
+menerapkan tarif,0.008072486575554866,Bigram
+ekonomi global,0.007976626624311445,Bigram
+menjadi persen,0.007939026606388445,Bigram
+perdagangan global,0.007919098075117148,Bigram
+perusahaan perusahaan,0.007817065599232157,Bigram
+trump mengatakan,0.007710729725269553,Bigram
+mata uang,0.007702483295801527,Bigram
+menteri keuangan,0.007613682859010711,Bigram
+sejumlah negara,0.00752846390759013,Bigram
+tarif tambahan,0.00737675584021088,Bigram
+nilai tukar,0.00720311796282944,Bigram
+tarif presiden,0.007187097380524912,Bigram
+perdagangan internasional,0.0071835455043653094,Bigram
+pengenaan tarif,0.007167658884979576,Bigram
+baja aluminium,0.007093481349064267,Bigram
+termasuk indonesia,0.006936771387780715,Bigram
+ekspor indonesia,0.006930945614943757,Bigram
+mulai berlaku,0.006840684702991985,Bigram
+meksiko kanada,0.006827100301649981,Bigram
+perdana menteri,0.006714055593892524,Bigram
+daya saing,0.006595453550908392,Bigram
+kebijakan perdagangan,0.006559657081064553,Bigram
+tahun lalu,0.006559463698783476,Bigram
+kebijakan trump,0.006553257927614545,Bigram
+kenaikan harga,0.006539425623609604,Bigram
+bank sentral,0.00649219585593803,Bigram
+tarif barang,0.0064667851395682095,Bigram
+impor china,0.006460422830567171,Bigram
+waktu setempat,0.0064600988419925365,Bigram
+jangka panjang,0.00644394528161139,Bigram
+korea selatan,0.00644170097322009,Bigram
+dampak tarif,0.006422375432463741,Bigram
+mengumumkan tarif,0.006398514454436104,Bigram
+masing masing,0.0063472359287837865,Bigram
+barang china,0.006289165401583264,Bigram
+rantai pasok,0.0062493715787260646,Bigram
+pasar saham,0.006214375640028349,Bigram
+hingga persen,0.006207090051757606,Bigram
+tarif balasan,0.00617360030448564,Bigram
+kementerian perdagangan,0.006164164512234349,Bigram
+the fed,0.006145965499286705,Bigram
+negara termasuk,0.006138676849163212,Bigram
+pasar global,0.006110894578058851,Bigram
+airlangga hartarto,0.006069734646584567,Bigram
+negara mitra,0.006011378445406883,Bigram
+konferensi pers,0.006004236187682225,Bigram
+paman sam,0.005995536731674322,Bigram
+langkah langkah,0.005978817603220443,Bigram
+sebesar miliar,0.005969669391747573,Bigram
+tarif dasar,0.005956708035187111,Bigram
+terbesar dunia,0.005955043750357242,Bigram
+banyak negara,0.005920430339428139,Bigram
+perekonomian airlangga,0.005893876332093415,Bigram
+rantai pasokan,0.005875832747407067,Bigram
+tarif diberlakukan,0.005819840394465093,Bigram
+presiden prabowo,0.005703391004933676,Bigram
+trump mengenakan,0.00569091874041861,Bigram
+menteri perdagangan,0.00567160667558055,Bigram
+jakarta presiden,0.005649387449066368,Bigram
+media sosial,0.005648522544824538,Bigram
+pekan lalu,0.005607228026681018,Bigram
+beberapa negara,0.00558276832602514,Bigram
+negosiasi tarif,0.005579730065577881,Bigram
+tarif dikenakan,0.0055546603055694295,Bigram
+semua negara,0.005543022035566997,Bigram
+dikenai tarif,0.0055258809284663805,Bigram
+senilai miliar,0.00548875036679687,Bigram
+tarif bea,0.0054492763689587284,Bigram
+menteri koordinator,0.005403093439809892,Bigram
+harga emas,0.0053870276354034755,Bigram
+bidang perekonomian,0.005353973415618918,Bigram
+pemberlakuan tarif,0.0053503736579455525,Bigram
+tarif china,0.005338460447958206,Bigram
+koordinator bidang,0.005308623836177419,Bigram
+atas barang,0.005302892097619496,Bigram
+asia tenggara,0.005248942172693078,Bigram
+menetapkan tarif,0.005238938564426195,Bigram
+menjadi salah,0.005237027154656971,Bigram
+juru bicara,0.005219988137497022,Bigram
+tahun terakhir,0.005193264008711233,Bigram
+trump memberlakukan,0.005176489341869564,Bigram
+dampak kebijakan,0.005169519946098194,Bigram
+perdagangan china,0.005115537143181263,Bigram
+pasar keuangan,0.005109806893947198,Bigram
+tukar rupiah,0.005102984263445008,Bigram
+negeri paman,0.005084504518155279,Bigram
+sumber daya,0.005071767660984736,Bigram
+produk indonesia,0.005058476928107432,Bigram
+impor baru,0.005006770386462815,Bigram
+berbagai negara,0.00498815497006201,Bigram
+satu negara,0.004988128598208575,Bigram
+benar benar,0.004984503507743563,Bigram
+tarif perdagangan,0.004966130963007524,Bigram
+produk impor,0.004961513161826441,Bigram
+alas kaki,0.004957042452478099,Bigram
+pasar ekspor,0.004947788393495025,Bigram
+perdagangan dunia,0.0049447362382037344,Bigram
+persen menjadi,0.004940806133976841,Bigram
+terkena tarif,0.004930689993607404,Bigram
+sri mulyani,0.004913726573946137,Bigram
+seluruh dunia,0.004903922606473089,Bigram
+salah satunya,0.004899082425619009,Bigram
+rata rata,0.004878589141141666,Bigram
+neraca perdagangan,0.004871490267216818,Bigram
+besar besaran,0.0048549490762093955,Bigram
+scott bessent,0.0048534094908714315,Bigram
+melakukan negosiasi,0.0048277548190750075,Bigram
+persen produk,0.004812353216521427,Bigram
+mencapai miliar,0.004810609668183393,Bigram
+indonesia menjadi,0.004797229881448397,Bigram
+lapangan kerja,0.004778916781904468,Bigram
+harga barang,0.004778902891848964,Bigram
+surplus perdagangan,0.004729423244731974,Bigram
+pelaku usaha,0.004708631665861275,Bigram
+tindakan balasan,0.004690275769246074,Bigram
+impor barang,0.004655480289046047,Bigram
+ekonomi indonesia,0.004607056021229505,Bigram
+prabowo subianto,0.004586280002901618,Bigram
+menaikkan harga,0.004582450332289277,Bigram
+new york,0.004571834992407264,Bigram
+bulan lalu,0.004497511247049783,Bigram
+perdagangan indonesia,0.004488997779647742,Bigram
+menteri luar,0.004476569362570644,Bigram
+produk china,0.004462645252649254,Bigram
+industri negeri,0.004449224263564229,Bigram
+ancaman tarif,0.0044448931367527655,Bigram
+akibat tarif,0.004404710245902919,Bigram
+masa jabatan,0.004388844743702771,Bigram
+miliar dollar,0.004381083730459203,Bigram
+bank indonesia,0.004380122812729498,Bigram
+dagang amerika,0.0043554490903679076,Bigram
+tarif dagang,0.0043438258592234085,Bigram
+bahan baku,0.004326333915392002,Bigram
+mengalami penurunan,0.004321315133517157,Bigram
+tenaga kerja,0.0043140968138200885,Bigram
+truth social,0.004306091546357722,Bigram
+ekonomi terbesar,0.004303564849954192,Bigram
+menurunkan tarif,0.0042967213003617,Bigram
+atas impor,0.004273920113473502,Bigram
+negara asia,0.004216908070845634,Bigram
+impor produk,0.004186487811507301,Bigram
+wall street,0.004185212742658078,Bigram
+kebijakan tersebut,0.004183512242089335,Bigram
+baru baru,0.004183057672029182,Bigram
+undang undang,0.004176512524674809,Bigram
+mengatakan tarif,0.004169481541901149,Bigram
+minyak mentah,0.004151156586787248,Bigram
+persen barang,0.004113904091673939,Bigram
+trump menerapkan,0.0041132709437944615,Bigram
+perdagangan bebas,0.0041115457766637544,Bigram
+hari depan,0.004104415494453003,Bigram
+negara bagian,0.0040819958140961106,Bigram
+usd miliar,0.004077086282998211,Bigram
+keuangan scott,0.004069450353054309,Bigram
+perdagangan amerika,0.0040547770265999756,Bigram
+ketegangan perdagangan,0.004047330855465393,Bigram
+mengambil langkah,0.00404281038088417,Bigram
+tarif atas,0.004033990610161072,Bigram
+tarif diterapkan,0.004032072001175265,Bigram
+april lalu,0.004031207954222275,Bigram
+indonesia amerika,0.004027210585510625,Bigram
+jangka pendek,0.004016969683246993,Bigram
+mencapai kesepakatan,0.004006968916586563,Bigram
+per dolar,0.004003856635733674,Bigram
+persen tarif,0.003972199408971822,Bigram
+perjanjian perdagangan,0.003940079792132735,Bigram
+produsen mobil,0.003933614350350914,Bigram
+masa depan,0.003928455718429001,Bigram
+ekonomi nasional,0.003914233318054269,Bigram
+china menjadi,0.003904789430325683,Bigram
+produk asal,0.0038998165084706067,Bigram
+suku cadang,0.0038961278548350305,Bigram
+bawah melanjutkan,0.003884489191562223,Bigram
+melanjutkan membaca,0.003884489191562223,Bigram
+scroll bawah,0.003884489191562223,Bigram
+rabu april,0.0038831071123499182,Bigram
+tarif hingga,0.0038728587816311754,Bigram
+dagang china,0.0038510394166881073,Bigram
+howard lutnick,0.003842974314911048,Bigram
+trump mengancam,0.0038382842958632124,Bigram
+hari senin,0.0038377757113997376,Bigram
+miliar triliun,0.0038245139762088207,Bigram
+organisasi perdagangan,0.003807376750616107,Bigram
+asal china,0.0038020492745537773,Bigram
+serikat china,0.0037926456706687726,Bigram
+pelaku pasar,0.0037889509632048645,Bigram
+minggu lalu,0.0037716897592559293,Bigram
+baru trump,0.0037662932234733826,Bigram
+terkait tarif,0.0037659684062177038,Bigram
+dagang utama,0.003717249475762115,Bigram
+impor sebesar,0.0037169265749808517,Bigram
+industri otomotif,0.003715515775933388,Bigram
+keamanan nasional,0.003714089104686833,Bigram
+negara dunia,0.0036860009083596653,Bigram
+turun persen,0.0036760232594147597,Bigram
+tarif amerika,0.0036734695062012016,Bigram
+perwakilan dagang,0.0036653918689836533,Bigram
+perintah eksekutif,0.0036648786355034267,Bigram
+timur tengah,0.0036581348077336074,Bigram
+impor baja,0.00364974835539868,Bigram
+pasar domestik,0.0036381007836932882,Bigram
+terkena dampak,0.003634785380499123,Bigram
+dampak negatif,0.0036142226735538185,Bigram
+impor indonesia,0.0036097952966851372,Bigram
+akibat kebijakan,0.003606926383364349,Bigram
+hubungan dagang,0.0035913462121741004,Bigram
+berdasarkan data,0.0035819733175011977,Bigram
+orang orang,0.0035653562514891715,Bigram
+tarif negara,0.0035455257600634457,Bigram
+semua impor,0.0035258708714476076,Bigram
+trump menetapkan,0.0035221478792866836,Bigram
+pengumuman tarif,0.0035030764002590992,Bigram
+ekonomi dunia,0.0035002726791473924,Bigram
+puluhan negara,0.0034927831217361973,Bigram
+impor trump,0.0034905840345208976,Bigram
+produk ekspor,0.0034852262859716983,Bigram
+negara berkembang,0.003484014224229266,Bigram
+rumah tangga,0.003473772561421924,Bigram
+semua barang,0.0034691388805251234,Bigram
+tarif produk,0.0034605743667458213,Bigram
+belah pihak,0.003456256668466858,Bigram
+kedua belah,0.003456256668466858,Bigram
+bekerja sama,0.0034461658760546843,Bigram
+mulai april,0.0034443831483544065,Bigram
+pemerintah china,0.003442032125232052,Bigram
+kebijakan presiden,0.0034389407787505585,Bigram
+produk domestik,0.0034349064346200493,Bigram
+tarif besar,0.003428957805117254,Bigram
+trump menandatangani,0.0034210457556879273,Bigram
+perdagangan howard,0.003416447992527293,Bigram
+meksiko china,0.0034006928707427443,Bigram
+menghadapi tarif,0.003391332166848706,Bigram
+situs web,0.0033878169422394775,Bigram
+daya beli,0.0033852555851582706,Bigram
+sejak awal,0.00337737378402042,Bigram
+hampir semua,0.003373359783945985,Bigram
+kemungkinan besar,0.0033576037309317706,Bigram
+diversifikasi pasar,0.0033550187095750376,Bigram
+saling menguntungkan,0.0033547966762470416,Bigram
+tarif berlaku,0.0033527011388171943,Bigram
+kebijakan ekonomi,0.0033512893918055185,Bigram
+video detik,0.003333926354638982,Bigram
+pemerintahan presiden,0.003333764757356267,Bigram
+beberapa hari,0.00333372850923617,Bigram
+impor tinggi,0.0033236704871937154,Bigram
+soal tarif,0.003321000564655685,Bigram
+mencapai persen,0.0033196542197463934,Bigram
+sebuah pernyataan,0.0033108834651899262,Bigram
+biaya produksi,0.0032978735102096365,Bigram
+atas produk,0.0032954074878865877,Bigram
+harga saham,0.0032925695088101173,Bigram
+gambas video,0.0032922939476189065,Bigram
+presiden donald trump,0.025159176825831294,Trigram
+presiden amerika serikat,0.023296192026405715,Trigram
+amerika serikat donald,0.022572993917465645,Trigram
+serikat donald trump,0.021709362375403083,Trigram
+tarif timbal balik,0.01391324459937207,Trigram
+kebijakan tarif trump,0.012781981863115466,Trigram
+kebijakan tarif impor,0.009950281478882427,Trigram
+menjadi salah satu,0.007645808908982266,Trigram
+perekonomian airlangga hartarto,0.007642689165920974,Trigram
+negeri paman sam,0.0076308131066228045,Trigram
+kebijakan tarif presiden,0.00730642716696847,Trigram
+nilai tukar rupiah,0.0069704058578808,Trigram
+jakarta presiden amerika,0.006692434446344729,Trigram
+trump mengenakan tarif,0.006638291397182361,Trigram
+barang barang china,0.006635550460347325,Trigram
+koordinator bidang perekonomian,0.006623017379208116,Trigram
+tarif impor baru,0.006620335959778838,Trigram
+kebijakan tarif resiprokal,0.00660616820642571,Trigram
+menteri koordinator bidang,0.006557997090931884,Trigram
+menteri luar negeri,0.006437860234574521,Trigram
+donald trump mengumumkan,0.006362862985325837,Trigram
+trump memberlakukan tarif,0.006346305632733844,Trigram
+tarif barang barang,0.0062113875926855,Trigram
+tarif presiden donald,0.0061485949271877826,Trigram
+tarif sebesar persen,0.006055487799211362,Trigram
+menteri keuangan scott,0.006023260748175263,Trigram
+tarif bea masuk,0.0059274938403982855,Trigram
+keuangan scott bessent,0.005896474827866335,Trigram
+bidang perekonomian airlangga,0.005864685652652535,Trigram
+menaikkan tarif impor,0.005841053663819387,Trigram
+presiden prabowo subianto,0.005828253146544939,Trigram
+amerika serikat china,0.00568232068308109,Trigram
+bawah melanjutkan membaca,0.00559548302856131,Trigram
+scroll bawah melanjutkan,0.00559548302856131,Trigram
+atas barang barang,0.005563105383909036,Trigram
+mitra dagang utama,0.00552591830354108,Trigram
+kebijakan tarif baru,0.0054150430957379085,Trigram
+trump mengumumkan tarif,0.0053994104432149685,Trigram
+salah satu negara,0.005328660835704257,Trigram
+organisasi perdagangan dunia,0.00524615667842229,Trigram
+tarif amerika serikat,0.005234544351817628,Trigram
+negara termasuk indonesia,0.005142163144314318,Trigram
+negara mitra dagang,0.005074170956877648,Trigram
+dagang amerika serikat,0.0050482508326813984,Trigram
+perdagangan howard lutnick,0.005014860108680052,Trigram
+menteri perdagangan howard,0.005014860108680052,Trigram
+produk domestik bruto,0.00499562691361148,Trigram
+kedua belah pihak,0.004908563175409654,Trigram
+indonesia amerika serikat,0.004860739241846666,Trigram
+gambas video detik,0.004851010537064912,Trigram
+impor baja aluminium,0.004650698789437602,Trigram
+kenaikan tarif impor,0.004635287393790965,Trigram
+tarif impor trump,0.004544136118627797,Trigram
+domestik bruto pdb,0.004425606290518568,Trigram
+dampak kebijakan tarif,0.004400431077052755,Trigram
+pemerintah amerika serikat,0.0043733387750996555,Trigram
+barang barang impor,0.0043673359124527505,Trigram
+kementerian perdagangan china,0.004366729252445979,Trigram
+pemutusan hubungan kerja,0.004342096588741471,Trigram
+ekonomi terbesar dunia,0.004321125216639904,Trigram
+persen menjadi persen,0.004267421989907731,Trigram
+negara negara mitra,0.0042664101959192825,Trigram
+perdagangan amerika serikat,0.004259137033861113,Trigram
+kementerian luar negeri,0.004243466033585572,Trigram
+tarif presiden amerika,0.004200000371103492,Trigram
+merupakan salah satu,0.00416292031841539,Trigram
+kanada meksiko china,0.00415179500896747,Trigram
+perang dagang china,0.0041292858868579125,Trigram
+trump menerapkan tarif,0.004119570565300451,Trigram
+trump menaikkan tarif,0.004087653716625991,Trigram
+persen barang barang,0.0040827194649702084,Trigram
+tarif impor tinggi,0.004060034839964,Trigram
+perdagangan dunia wto,0.003995858187570948,Trigram
+menurunkan suku bunga,0.003979164291469237,Trigram
+mengenakan tarif persen,0.003977626593907045,Trigram
+berita terbaru hari,0.003973457037311277,Trigram
+mengenakan tarif impor,0.003972369949351735,Trigram
+bea masuk impor,0.0039269844296526395,Trigram
+bea masuk sebesar,0.0038544032372699885,Trigram
+tarif impor sebesar,0.0038082149603081133,Trigram
+beberapa tahun terakhir,0.003804134113758429,Trigram
+tarif besar besaran,0.0037963578611679835,Trigram
+masa jabatan pertama,0.0037180619262398833,Trigram
+negara negara tersebut,0.003703901144053826,Trigram
+trump menetapkan tarif,0.003695934398371478,Trigram
+dilarang keras mengambil,0.0036914786411812108,Trigram
+jepang korea selatan,0.003689889252140007,Trigram
+kedua negara tersebut,0.003670003120786345,Trigram
+rantai pasok global,0.00361928734755002,Trigram
+impor barang barang,0.0036190453829722867,Trigram
+trump menandatangani perintah,0.003615412062953261,Trigram
+tarif impor china,0.003607663349838943,Trigram
+pengindeksan otomatis situs,0.0035788196119626815,Trigram
+mengambil pengindeksan otomatis,0.0035788196119626815,Trigram
+otomatis situs web,0.0035788196119626815,Trigram
+keras mengambil pengindeksan,0.0035788196119626815,Trigram
+situs web izin,0.0035788196119626815,Trigram
+web izin tertulis,0.0035788196119626815,Trigram
+juru bicara kementerian,0.003566983830093592,Trigram
+memberlakukan tarif impor,0.003553151936335745,Trigram
+penerapan tarif resiprokal,0.003547776594612282,Trigram
+impor amerika serikat,0.003542019421284974,Trigram
+tarif impor baja,0.0035236663701447846,Trigram
+impor kanada meksiko,0.0035000591749424635,Trigram
+negara asia tenggara,0.00348251214841452,Trigram
+pertumbuhan ekonomi global,0.003466379234429756,Trigram
+negeri tirai bambu,0.003466261425633425,Trigram
+tarif impor barang,0.0034658846702707207,Trigram
+waktu baca menit,0.0034612418855328483,Trigram
+wib waktu baca,0.0034612418855328483,Trigram
+keuangan sri mulyani,0.0034530708151285817,Trigram
+menteri keuangan sri,0.0034530708151285817,Trigram
+memicu perang dagang,0.0034362650767387837,Trigram
+donald trump mengatakan,0.003426622850583788,Trigram
+negara negara asia,0.003424190111729097,Trigram
+tarif impor presiden,0.0034216101458396514,Trigram
+perang dagang global,0.003406798623166724,Trigram
+mengumumkan kebijakan tarif,0.0034001116558720094,Trigram
+sri mulyani indrawati,0.003371271173993466,Trigram
+tarif impor persen,0.0033517286495199864,Trigram
+akibat kebijakan tarif,0.0032976328184216577,Trigram
+donald trump resmi,0.003291017512555672,Trigram
+hubungan kerja phk,0.003238633390666116,Trigram
+presiden china jinping,0.0032342990782713056,Trigram
+barang barang asal,0.003226597608692986,Trigram
+dampak tarif trump,0.0032235586019701357,Trigram
+memangkas suku bunga,0.003207866241886447,Trigram
+daya saing produk,0.0032005061572971966,Trigram
+harga emas dunia,0.0031898606857731445,Trigram
+komponen negeri tkdn,0.0031703981612438343,Trigram
+daya beli masyarakat,0.0031152085026611973,Trigram
+perjanjian perdagangan bebas,0.0030973649188686114,Trigram
+menerapkan tarif impor,0.0030913384604099254,Trigram
+dampak perang dagang,0.0030672879421436185,Trigram
+tarif impor produk,0.00306630917566871,Trigram
+wakil perdana menteri,0.003058449768705467,Trigram
+pemerintahan presiden donald,0.0030534273321422348,Trigram
+tarif resiprokal sebesar,0.003040174679832024,Trigram
+tarif atas barang,0.003031989304835704,Trigram
+pemerintahan donald trump,0.003023414133675585,Trigram
+diumumkan presiden donald,0.0030181802311860743,Trigram
+indonesia menjadi salah,0.0030167805866679323,Trigram
+badan pusat statistik,0.0029882943339964037,Trigram
+mengenakan tarif barang,0.002979793474117078,Trigram
+beberapa bulan terakhir,0.0029748892099656565,Trigram
+tingkat komponen negeri,0.0029627243607117625,Trigram
+perang dagang trump,0.00296232404960104,Trigram
+menandatangani perintah eksekutif,0.00295204146533992,Trigram
+sebesar barang barang,0.002926561442587932,Trigram
+trump mengumumkan kebijakan,0.0029260454737621107,Trigram
+kebijakan tarif tinggi,0.0029246123941003006,Trigram
+masing masing negara,0.0029171516627792228,Trigram
+terkait kebijakan tarif,0.002894779631281842,Trigram
+mitra dagang terbesar,0.0028877533169231616,Trigram
+mengenakan tarif sebesar,0.0028867850646787188,Trigram
+impor sebesar persen,0.002875864427295399,Trigram
+selama beberapa dekade,0.0028756183856115123,Trigram
+tarif baru trump,0.002873250938294342,Trigram
+amerika serikat trump,0.002873064470959421,Trigram
+kantor perwakilan dagang,0.0028677718282961724,Trigram
+tarif presiden trump,0.002861864634771978,Trigram
+barang impor china,0.0028572702610224943,Trigram
+sejumlah negara termasuk,0.002848880137374938,Trigram
+kerja sama ekonomi,0.0028433329661159265,Trigram
+penerapan tarif impor,0.0028296253798006134,Trigram
+pasar amerika serikat,0.002822601948365628,Trigram
+tarif impor amerika,0.0027778570433171735,Trigram
+suku bunga acuan,0.002776957857774821,Trigram
+diversifikasi pasar ekspor,0.0027693416532430055,Trigram
+tarif donald trump,0.002765802778938952,Trigram
+dewan ekonomi nasional,0.002757022007728525,Trigram
+mengumumkan tarif baru,0.002753408208722705,Trigram
+jabatan pertama trump,0.002751685232000866,Trigram
+timbal balik resiprokal,0.0027384336251928287,Trigram
+daya saing ekspor,0.002736649883479644,Trigram
+pemangkasan suku bunga,0.0027351377362052035,Trigram
+praktik perdagangan adil,0.002723416010739877,Trigram
+perdagangan luar negeri,0.00272145819672328,Trigram
+dana moneter internasional,0.0027163143398231827,Trigram
+selama masa jabatan,0.0027028887692931826,Trigram
+presiden amerika serikatdonald,0.002681202200530947,Trigram
+sumber daya alam,0.0026810224762157855,Trigram
+level terendah sejak,0.002675245625610148,Trigram
+menetapkan tarif impor,0.0026666564883290286,Trigram
+tekstil alas kaki,0.002655456555205783,Trigram
+melindungi industri negeri,0.0026546855977664843,Trigram
+tarif tambahan sebesar,0.002647823530663826,Trigram
+presiden komisi eropa,0.002645757512264364,Trigram
+perang dagang amerika,0.0026428316026635874,Trigram
+donald trump memberlakukan,0.0026404590696818856,Trigram
+jakarta kebijakan tarif,0.002633363385576122,Trigram
+perdana menteri kanada,0.0026333500817679635,Trigram
+bea masuk tinggi,0.002627394956064133,Trigram
+tarif negara negara,0.0026202361832251206,Trigram
+donald trump mulai,0.00257480612303709,Trigram
+diberlakukan presiden donald,0.0025740747622846985,Trigram
+semua barang impor,0.0025737847007520805,Trigram
+rantai pasokan global,0.0025594164295393634,Trigram
+platform truth social,0.002556925552922709,Trigram
+tarif kanada meksiko,0.0025543086439800446,Trigram
+produk produk china,0.0025493055356093823,Trigram
+luar negeri china,0.0025353892749998288,Trigram
+tarif baja aluminium,0.002533221495144119,Trigram
+produk ekspor indonesia,0.002529985729275372,Trigram
+keadaan darurat nasional,0.002523324715252175,Trigram
+tarif resiprokal trump,0.0025230775160354755,Trigram
+mengenakan bea masuk,0.002521657358759862,Trigram
+komisi eropa leyen,0.0025080476544216863,Trigram
+proyeksi pertumbuhan ekonomi,0.002506271575397332,Trigram
+miliar setara triliun,0.0025040210980645148,Trigram
+meningkatkan daya saing,0.002503756373937267,Trigram
+menunda penerapan tarif,0.0024827591306410507,Trigram
+mengganggu rantai pasokan,0.0024792721566045256,Trigram
+mengumumkan tarif impor,0.002475418686371053,Trigram
+defisit perdagangan barang,0.002461014938830439,Trigram
+mencapai usd miliar,0.0024593441169452088,Trigram
+diberlakukan presiden amerika,0.0024536172900908168,Trigram
+sebesar persen produk,0.0024508372305683474,Trigram
+pusat statistik bps,0.0024492316484355974,Trigram
+defisit neraca perdagangan,0.0024366319572150115,Trigram
+ketidakpastian ekonomi global,0.002434057244647697,Trigram
+negara negara berkembang,0.0024320399937456318,Trigram
+timbal balik sebesar,0.0024315605158511896,Trigram
+bea masuk tambahan,0.0024261215648466077,Trigram
+negara ekonomi terbesar,0.0024212903486623416,Trigram
+negara negara asean,0.0024202361256684063,Trigram
+sebesar persen barang,0.002419263995463666,Trigram
+sebagian besar negara,0.0024189159881008327,Trigram
+logam tanah jarang,0.002412361320939999,Trigram
+suku cadang mobil,0.0024092674422792476,Trigram
+meksiko kanada china,0.002408016505334797,Trigram
+akun media sosial,0.0024057341471656695,Trigram
+pengadilan perdagangan internasional,0.0023949190606852386,Trigram
+timbal balik trump,0.0023903189051195117,Trigram
+tarif barang impor,0.002376666403091099,Trigram
+terdampak kebijakan tarif,0.002371464908656412,Trigram
+pejabat gedung putih,0.0023654448084167385,Trigram
+periode sama tahun,0.0023624762305819763,Trigram
+baru amerika serikat,0.0023607844212807584,Trigram
+april wib waktu,0.002357816012534736,Trigram
+tarif selama hari,0.002356605608728517,Trigram
+tarif persen impor,0.002342488830986062,Trigram
+bbc news indonesia,0.0023400636481685166,Trigram
+perwakilan dagang jamieson,0.0023334386905852884,Trigram
+memberlakukan tarif baru,0.0023273933758832296,Trigram
+kebijakan luar negeri,0.0023227182001583956,Trigram
+airlangga konferensi pers,0.002322477266850966,Trigram
+perdagangan uni eropa,0.0023201987633395455,Trigram
+pasar keuangan global,0.0023167044310533303,Trigram
+berbagai negara termasuk,0.0023166237032752617,Trigram
+sebagian besar tarif,0.002314517077806948,Trigram
+tarif dasar sebesar,0.002305175932628405,Trigram
+pemerintahan presiden amerika,0.0022932417099117463,Trigram
+donald trump mengancam,0.002289702916345529,Trigram
+resiprokal amerika serikat,0.0022875879328133463,Trigram
+dikenakan tarif impor,0.0022842564731672538,Trigram
+mengancam mengenakan tarif,0.0022796515210057127,Trigram
+menko perekonomian airlangga,0.002279280215907765,Trigram
+harga minyak mentah,0.002278875585669447,Trigram
+negara dikenakan tarif,0.0022743735129636357,Trigram
+bicara kementerian luar,0.0022713462891850874,Trigram
+mengenakan tarif tinggi,0.0022695294968617854,Trigram
+industri padat karya,0.0022641296286636265,Trigram
+ekonomi amerika serikat,0.0022583573877979876,Trigram
+pers gedung putih,0.002256701146955717,Trigram
+states trade representative,0.0022460537577604182,Trigram
+trade representative ustr,0.0022397716754589316,Trigram
+harga saham gabungan,0.0022384628519401496,Trigram
+harga barang barang,0.002236351462638087,Trigram
+selama bertahun tahun,0.002228293993151768,Trigram
+negara negara eropa,0.0022279523425429433,Trigram
+tarif perang dagang,0.002227596909888832,Trigram
+penurunan suku bunga,0.0022266426432753037,Trigram
+ekspor amerika serikat,0.0022208433924726643,Trigram
+indonesia salah satu,0.0022158242667916707,Trigram
+selama hari depan,0.0022142632823346064,Trigram
+kamis waktu setempat,0.002212155261112007,Trigram
+bertanggung jawab atas,0.0022117417623114008,Trigram
+negara tujuan ekspor,0.002210407022455097,Trigram
+impor presiden amerika,0.002206782682373687,Trigram
+eskalasi perang dagang,0.002202801539057828,Trigram
+donald trump menandatangani,0.002197277862186803,Trigram
+donald trump mengenakan,0.0021963436931048217,Trigram
+neraca perdagangan indonesia,0.002193690747498765,Trigram
+dagang jamieson greer,0.002192230109075967,Trigram
+perang tarif trump,0.0021849604617871577,Trigram
+beberapa minggu terakhir,0.0021839330983846267,Trigram
+barang kanada meksiko,0.00218218240040011,Trigram
+meksiko claudia sheinbaum,0.002174026651896183,Trigram
+gedung putih karoline,0.002172164771835117,Trigram
+negara negara memiliki,0.0021715283916767486,Trigram
+mendalam bbc news,0.002168605528840906,Trigram
+indonesia langsung whatsapp,0.002168605528840906,Trigram
+news indonesia langsung,0.002168605528840906,Trigram
+liputan mendalam bbc,0.002168605528840906,Trigram
+indonesia dikenakan tarif,0.0021642554813198164,Trigram
+resiprokal timbal balik,0.0021619218123055217,Trigram
+donald trump menetapkan,0.002161296879677553,Trigram
+kebijakan tarif timbal,0.0021606762040974627,Trigram
+perang tarif china,0.002158695513623609,Trigram
